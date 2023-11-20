@@ -121,6 +121,35 @@
         padding: 10px;
       }
 
+      .container {
+        position: fixed;
+        width: 4rem;
+        height: 4rem;
+        bottom: 2rem;
+        right: 2rem;
+        background: rgba(1, 1, 3, 1);
+        color: #fff;
+        border-radius: 50px;
+        z-index: 50;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        box-shadow: -1rem 0 1rem #7e7e7e;
+        transition: 0.3s ease-in-out;
+      }
+
+      .null .container:hover {
+        background: rgba(1, 1, 3, 0.9);
+      }
+
+      .null .qris {
+        width: 200px;
+        height: 200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+
       @media (max-width: 768px) {
         header h1 {
           font-size: 24px;
@@ -146,6 +175,13 @@
         footer {
           font-size: 12px;
         }
+
+        .container {
+          width: 3.5rem;
+          height: 3.5rem;
+          bottom: 1.5rem;
+          right: 1.5rem;
+        }
       }
     </style>
   </head>
@@ -156,14 +192,14 @@
     </header>
 
     <section>
-      <img src="https://i.ibb.co/g4308rd/cimol.jpg" style="width: 200px; border-radius: 50%" />
+      <img src="https://i.ibb.co/g4308rd/cimol.jpg" style="position: relative; width: 200px; border-radius: 50%" />
       <h2 class="underline">Tentang Kami</h2>
       <span class="awokwok">Kami adalah penjual Cimol Bojott yang beroperasi dikawasan Pemuda, Jakarta Timur. Selain rasa yang enak, kami juga menyajikan harga yang murah.</span>
     </section>
 
     <section>
       <h2 class="underline">Pilihan Menu</h2>
-      <div class="awokwok">
+      <div class="awokwok" style="display: flex; flex-wrap: wrap">
         <div>
           <p style="font-size: large">Cimol Original</p>
           <img src="https://i.ibb.co/72dHFZ4/Whats-App-Image-2023-10-18-at-20-02-13.jpg" alt="Cimol Original" style="width: 175px; border-radius: 20%" />
@@ -174,7 +210,18 @@
           <img src="https://i.ibb.co/VBXB7NY/168429692-719951932010951-7840695605858141048-n.jpg" alt="Cimol Pedas" style="width: 175px; border-radius: 20%" />
           <p style="font-family: 'Young Serif', serif; text-decoration: none">Rp. 5000 / Porsi</p>
         </div>
+        <div>
+          <p style="font-size: large">Cimol Jagung Bakar</p>
+          <img src="https://i.ibb.co/mGC9NX6/Whats-App-Image-2023-11-20-at-17-31-33.jpg" alt="Cimol Pedas" style="width: 175px; border-radius: 20%" />
+          <p style="font-family: 'Young Serif', serif; text-decoration: none">Rp. 5000 / Porsi</p>
+        </div>
       </div>
+    </section>
+
+    <a href="#payment" class="container">PAY</a>
+    <section class="null" id="payment">
+      <h2 class="underline">Payment</h2>
+      <img src="https://i.ibb.co/1TjMDW1/Whats-App-Image-2023-11-16-at-13-54-47.jpg" class="qris" />
     </section>
 
     <section>
