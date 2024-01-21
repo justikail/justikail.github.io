@@ -8,7 +8,11 @@
     <a href="https://bsk.kemenkumham.go.id/products/honeybet303/">Honeybet303</a>
     <a href="https://bsk.kemenkumham.go.id/po-content/products/sv388/">SV388</a>
     <a href="https://e-litbang.balitbangham.go.id/captcha/dombatoto/">DOMBATOTO</a>
-    <a href="https://e-litbang.balitbangham.go.id/captcha/toto-4d/">TOTO 4D</a>
+    <a href="https://e-litbang.balitbangham.go.id/captcha/toto-4d/">TOTO4D</a>
     <a href="https://pmb.stimsukmamedan.ac.id/blog/toto4d/">TOTO 4D</a>
     <a href="https://ekebijakan-bsk.kemenkumham.go.id/asset/totomacau/">Toto Macau</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/assets/pgsoft/">PGSOFT MANIA</a>
+    <a href="https://s1manajemen.stimsukmamedan.ac.id/assets/zeus-slot/">ZEUS SLOT</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-mania/">MANIA SLOT</a>
+    <a href="https://spmi.stimsukmamedan.ac.id/assets/idn-slot/">IDNSLOT</a>
 </div>
