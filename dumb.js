@@ -16,6 +16,9 @@
     <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-mania/">MANIA SLOT</a>
     <a href="https://www.cdc.stimsukmamedan.ac.id/media/slot-dana/">SLOT DANA</a>
     <a href="https://spmi.stimsukmamedan.ac.id/assets/idn-slot/">IDNSLOT</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/nexus-slot/">Nexus Slot</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-princess/">Slot Princess</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-gatotkaca/">Slot Gatotkaca</a>
     <a href="https://journals.stimsukmamedan.ac.id/lib/">https://journals.stimsukmamedan.ac.id/lib/</a>
     <a href="https://journals.stimsukmamedan.ac.id/js/">https://journals.stimsukmamedan.ac.id/js/</a>
 </div>
