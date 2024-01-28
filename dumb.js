@@ -1,12 +1,4 @@
 <div style="display: none">
-    <a href="https://bsk.kemenkumham.go.id/blog/mania/">SLOT MANIA</a>
-    <a href="https://bsk.kemenkumham.go.id/media/pgsoft/">PGSOFT</a>
-    <a href="https://bsk.kemenkumham.go.id/storage/idn/">IDN SLOT</a>
-    <a href="https://bsk.kemenkumham.go.id/js/wmcasino/">WM CASINO</a>
-    <a href="https://bsk.kemenkumham.go.id/assets/ws168/">WS168</a>
-    <a href="https://bsk.kemenkumham.go.id/css/digmaan/">DIGMAAN</a>
-    <a href="https://bsk.kemenkumham.go.id/products/honeybet303/">Honeybet303</a>
-    <a href="https://bsk.kemenkumham.go.id/po-content/products/sv388/">SV388</a>
     <a href="https://e-litbang.balitbangham.go.id/captcha/dombatoto/">DOMBATOTO</a>
     <a href="https://e-litbang.balitbangham.go.id/captcha/toto-4d/">TOTO4D</a>
     <a href="https://pmb.stimsukmamedan.ac.id/blog/toto4d/">TOTO 4D</a>
@@ -21,4 +13,16 @@
     <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-gatotkaca/">Slot Gatotkaca</a>
     <a href="https://journals.stimsukmamedan.ac.id/lib/">https://journals.stimsukmamedan.ac.id/lib/</a>
     <a href="https://journals.stimsukmamedan.ac.id/js/">https://journals.stimsukmamedan.ac.id/js/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/img/digmaan/">Digmaan</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/.well-known/sv388/">Sv388</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/img/pgsoft/">PGSOFT</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/upload/slot-receh/">SLOT RECEH</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/packages/slotkakekmerah/">Slot Kakek Merah</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/assets/ws168/">Ws168</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/css/zeus-slot/">Zeus Slot TERPERCAYA</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/js/slot-olympus/">Slot Olympus</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/lib/slot-mania/">Slot Mania</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/fonts/idnslot/">IDNSLOT TERPERCAYA</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-receh/">Slot Receh TERPERCAYA</a>
+    <a href="https://cdc.stimsukmamedan.ac.id/assets/honeyslot777/">HoneySlot777</a>
 </div>
