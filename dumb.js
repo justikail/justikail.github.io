@@ -25,4 +25,9 @@
     <a href="https://simrs.rsudcepu.blorakab.go.id/fonts/idnslot/">IDNSLOT TERPERCAYA</a>
     <a href="https://cdc.stimsukmamedan.ac.id/assets/slot-receh/">Slot Receh TERPERCAYA</a>
     <a href="https://cdc.stimsukmamedan.ac.id/assets/honeyslot777/">HoneySlot777</a>
+    <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/assets/pgsoft/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/assets/pgsoft/</a>
+    <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/images/ws168/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/images/ws168/</a>
+    <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/js/digmaan/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/js/digmaan/</a>
+    <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/css/sv388/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/css/sv388/</a>
+    <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/uploads/zeus-slot/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/uploads/zeus-slot/</a>
 </div>
