@@ -30,4 +30,11 @@
     <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/js/digmaan/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/js/digmaan/</a>
     <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/css/sv388/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/css/sv388/</a>
     <a href="http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/uploads/zeus-slot/">http://simrs.rsudpetalabumi.riau.go.id:8080/sikepo/web/uploads/zeus-slot/</a>
+    <a href="https://disarpus.banjarnegarakab.go.id/wp-admin/sv388/">https://disarpus.banjarnegarakab.go.id/wp-admin/sv388/</a>
+    <a href="https://disarpus.banjarnegarakab.go.id/wp-content/digmaan/">https://disarpus.banjarnegarakab.go.id/wp-content/digmaan/</a>
+    <a href="https://disarpus.banjarnegarakab.go.id/wp-includes/pgsoft/">https://disarpus.banjarnegarakab.go.id/wp-includes/pgsoft/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/anjungan/slot-petir/">https://simrs.rsudcepu.blorakab.go.id/anjungan/slot-petir/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/service/slot-cuan/">https://simrs.rsudcepu.blorakab.go.id/service/slot-cuan/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/simpeg/slot-hoki/">https://simrs.rsudcepu.blorakab.go.id/simpeg/slot-hoki/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/simrs/fafaslot/">https://simrs.rsudcepu.blorakab.go.id/simrs/fafaslot/</a>
 </div>
