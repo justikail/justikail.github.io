@@ -37,4 +37,10 @@
     <a href="https://simrs.rsudcepu.blorakab.go.id/service/slot-cuan/">https://simrs.rsudcepu.blorakab.go.id/service/slot-cuan/</a>
     <a href="https://simrs.rsudcepu.blorakab.go.id/simpeg/slot-hoki/">https://simrs.rsudcepu.blorakab.go.id/simpeg/slot-hoki/</a>
     <a href="https://simrs.rsudcepu.blorakab.go.id/simrs/fafaslot/">https://simrs.rsudcepu.blorakab.go.id/simrs/fafaslot/</a>
+    <a href="https://unismuhpalu.ac.id/products/digmaan/">https://unismuhpalu.ac.id/products/digmaan/</a>
+    <a href="https://unismuhpalu.ac.id/products/pgsoft/">https://unismuhpalu.ac.id/products/pgsoft/</a>
+    <a href="https://unismuhpalu.ac.id/products/sv388/">https://unismuhpalu.ac.id/products/sv388/</a>
+    <a href="https://unismuhpalu.ac.id/products/slot-olympus/">https://unismuhpalu.ac.id/products/slot-olympus/</a>
+    <a href="https://unismuhpalu.ac.id/products/idnslot/">https://unismuhpalu.ac.id/products/idnslot/</a>
+    <a href="https://unismuhpalu.ac.id/products/slot-mania/">https://unismuhpalu.ac.id/products/slot-mania/</a>
 </div>
