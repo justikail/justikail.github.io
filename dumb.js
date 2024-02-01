@@ -43,4 +43,12 @@
     <a href="https://unismuhpalu.ac.id/products/slot-olympus/">https://unismuhpalu.ac.id/products/slot-olympus/</a>
     <a href="https://unismuhpalu.ac.id/products/idnslot/">https://unismuhpalu.ac.id/products/idnslot/</a>
     <a href="https://unismuhpalu.ac.id/products/slot-mania/">https://unismuhpalu.ac.id/products/slot-mania/</a>
+    <a href="https://smkn1pangandaran.sch.id/assets/pgsoft/">https://smkn1pangandaran.sch.id/assets/pgsoft/</a>
+    <a href="https://smkn1pangandaran.sch.id/img/sv388/">https://smkn1pangandaran.sch.id/img/sv388/</a>
+    <a href="https://smkn1pangandaran.sch.id/css/ws168/">https://smkn1pangandaran.sch.id/css/ws168/</a>
+    <a href="https://smkn1pangandaran.sch.id/js/digmaan/">https://smkn1pangandaran.sch.id/js/digmaan/</a>
+    <a href="https://smkn1pangandaran.sch.id/sog/slot-olympus/">https://smkn1pangandaran.sch.id/sog/slot-olympus/</a>
+    <a href="https://disarpus.banjarnegarakab.go.id/assets/slot-mania/">https://disarpus.banjarnegarakab.go.id/assets/slot-mania/</a>
+    <a href="https://disarpus.banjarnegarakab.go.id/css/ws168/">https://disarpus.banjarnegarakab.go.id/css/ws168/</a>
+    <a href="https://simrs.rsudcepu.blorakab.go.id/assets/hasianbet168/">https://simrs.rsudcepu.blorakab.go.id/assets/hasianbet168/</a>
 </div>
