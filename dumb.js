@@ -51,14 +51,14 @@
     <a href="https://disarpus.banjarnegarakab.go.id/assets/slot-mania/">https://disarpus.banjarnegarakab.go.id/assets/slot-mania/</a>
     <a href="https://disarpus.banjarnegarakab.go.id/css/ws168/">https://disarpus.banjarnegarakab.go.id/css/ws168/</a>
     <a href="https://simrs.rsudcepu.blorakab.go.id/assets/hasianbet168/">https://simrs.rsudcepu.blorakab.go.id/assets/hasianbet168/</a>
-	<a href="https://d3manajemen.stimsukmamedan.ac.id/img/sv388/">https://d3manajemen.stimsukmamedan.ac.id/img/sv388/</a>
-	<a href="https://d3manajemen.stimsukmamedan.ac.id/uploads/slot-bet200/">https://d3manajemen.stimsukmamedan.ac.id/uploads/slot-bet200/</a>
-	<a href="https://d3manajemen.stimsukmamedan.ac.id/css/fafaslot/">https://d3manajemen.stimsukmamedan.ac.id/css/fafaslot/</a>
-	<a href="https://d3manajemen.stimsukmamedan.ac.id/js/slot-mania/">https://d3manajemen.stimsukmamedan.ac.id/js/slot-mania/</a>
-	<a href="https://d3manajemen.stimsukmamedan.ac.id/image/slot-receh/">https://d3manajemen.stimsukmamedan.ac.id/image/slot-receh/</a>
-	<a href="https://bsk.kemenkumham.go.id/blog/mania/">https://bsk.kemenkumham.go.id/blog/mania/</a>
-	<a href="https://bsk.kemenkumham.go.id/products/honeybet303/">https://bsk.kemenkumham.go.id/products/honeybet303/</a>
-	<a href="https://bsk.kemenkumham.go.id/media/pgsoft/">https://bsk.kemenkumham.go.id/media/pgsoft/</a>
-	<a href="https://bsk.kemenkumham.go.id/assets/ws168/">https://bsk.kemenkumham.go.id/assets/ws168/</a>
-	<a href="https://bsk.kemenkumham.go.id/css/digmaan/">https://bsk.kemenkumham.go.id/css/digmaan/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/img/sv388/">https://d3manajemen.stimsukmamedan.ac.id/img/sv388/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/uploads/slot-bet200/">https://d3manajemen.stimsukmamedan.ac.id/uploads/slot-bet200/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/css/fafaslot/">https://d3manajemen.stimsukmamedan.ac.id/css/fafaslot/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/js/slot-mania/">https://d3manajemen.stimsukmamedan.ac.id/js/slot-mania/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/image/slot-receh/">https://d3manajemen.stimsukmamedan.ac.id/image/slot-receh/</a>
+    <a href="https://bsk.kemenkumham.go.id/blog/mania/">https://bsk.kemenkumham.go.id/blog/mania/</a>
+    <a href="https://bsk.kemenkumham.go.id/products/honeybet303/">https://bsk.kemenkumham.go.id/products/honeybet303/</a>
+    <a href="https://bsk.kemenkumham.go.id/media/pgsoft/">https://bsk.kemenkumham.go.id/media/pgsoft/</a>
+    <a href="https://bsk.kemenkumham.go.id/assets/ws168/">https://bsk.kemenkumham.go.id/assets/ws168/</a>
+    <a href="https://bsk.kemenkumham.go.id/css/digmaan/">https://bsk.kemenkumham.go.id/css/digmaan/</a>
 </div>
