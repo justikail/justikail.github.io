@@ -61,4 +61,20 @@
     <a href="https://bsk.kemenkumham.go.id/media/pgsoft/">https://bsk.kemenkumham.go.id/media/pgsoft/</a>
     <a href="https://bsk.kemenkumham.go.id/assets/ws168/">https://bsk.kemenkumham.go.id/assets/ws168/</a>
     <a href="https://bsk.kemenkumham.go.id/css/digmaan/">https://bsk.kemenkumham.go.id/css/digmaan/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/pgsoft/">https://restabanan.bali.polri.go.id/products/pgsoft/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/pragmatic-play/">https://restabanan.bali.polri.go.id/products/pragmatic-play/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/mahjong-ways/">https://restabanan.bali.polri.go.id/products/mahjong-ways/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/slot-olympus/">https://restabanan.bali.polri.go.id/products/slot-olympus/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/slot-mania/">https://restabanan.bali.polri.go.id/products/slot-mania/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/slot-zeus/">https://restabanan.bali.polri.go.id/products/slot-zeus/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/slot-maxwin/">https://restabanan.bali.polri.go.id/products/slot-maxwin/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/idnslot/">https://restabanan.bali.polri.go.id/products/idnslot/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/sv388/">https://restabanan.bali.polri.go.id/products/sv388/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/digmaan/">https://restabanan.bali.polri.go.id/products/digmaan/</a>
+    <a href="https://restabanan.bali.polri.go.id/products/ws168/">https://restabanan.bali.polri.go.id/products/ws168/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/search/slot-petir/">https://d3manajemen.stimsukmamedan.ac.id/search/slot-petir/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/products/slot-olympus/">https://d3manajemen.stimsukmamedan.ac.id/products/slot-olympus/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/store/baccarat/">https://d3manajemen.stimsukmamedan.ac.id/store/baccarat/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/article/slot-ovo/">https://d3manajemen.stimsukmamedan.ac.id/article/slot-ovo/</a>
+    <a href="https://d3manajemen.stimsukmamedan.ac.id/profil/nexus-slot/">https://d3manajemen.stimsukmamedan.ac.id/profil/nexus-slot/</a>
 </div>
