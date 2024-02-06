@@ -6,17 +6,6 @@
     <a href="https://bsk.kemenkumham.go.id/css/digmaan/">digmaan</a>
     <a href="https://bsk.kemenkumham.go.id/store/slot-olympus/">slot olympus</a>
     <a href="https://bsk.kemenkumham.go.id/img/slot-mahjong/">slot mahjong</a>
-    <a href="https://restabanan.bali.polri.go.id/products/pgsoft/">pgsoft</a>
-    <a href="https://restabanan.bali.polri.go.id/products/pragmatic-play/">pragmatic play</a>
-    <a href="https://restabanan.bali.polri.go.id/products/mahjong-ways/">mahjong ways</a>
-    <a href="https://restabanan.bali.polri.go.id/products/slot-olympus/">slot olympus</a>
-    <a href="https://restabanan.bali.polri.go.id/products/slot-mania/">slot mania</a>
-    <a href="https://restabanan.bali.polri.go.id/products/slot-zeus/">slot zeus</a>
-    <a href="https://restabanan.bali.polri.go.id/products/slot-maxwin/">slot maxwin</a>
-    <a href="https://restabanan.bali.polri.go.id/products/idnslot/">idnslot</a>
-    <a href="https://restabanan.bali.polri.go.id/products/sv388/">sv388</a>
-    <a href="https://restabanan.bali.polri.go.id/products/digmaan/">digmaan</a>
-    <a href="https://restabanan.bali.polri.go.id/products/ws168/">ws168</a>
     <a href="https://e-litbang.balitbangham.go.id/captcha/dombatoto/">DOMBATOTO</a>
     <a href="https://e-litbang.balitbangham.go.id/captcha/toto-4d/">TOTO4D</a>
     <a href="https://ekebijakan-bsk.kemenkumham.go.id/asset/totomacau/">Toto Macau</a>
