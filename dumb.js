@@ -1,4 +1,6 @@
 <div style="display: none">
+    <a href="https://bsk.kemenkumham.go.id/projects/slot-mahjong/">slot-mahjong</a>
+    <a href="https://bsk.kemenkumham.go.id/app/slot-olympus/">slot-olympus</a>
     <a href="https://bsk.kemenkumham.go.id/blog/mania/">mania</a>
     <a href="https://bsk.kemenkumham.go.id/products/honeybet303/">honeybet303</a>
     <a href="https://bsk.kemenkumham.go.id/media/pgsoft/">pgsoft</a>
@@ -35,6 +37,7 @@
     <a href="https://e-office.bphn.go.id/products/sv388/">sv388</a>
     <a href="https://e-office.bphn.go.id/products/pg-soft/">pg-soft</a>
     <a href="https://pg-soft.pn-kalianda.go.id/">pg-soft.pn-kalianda.go.id</a>
+    <a href="https://pn-kalianda.go.id/img/softpg/">softpg</a>
     <a href="https://digmaan.pn-kalianda.go.id/">digmaan.pn-kalianda.go.id</a>
     <a href="https://sv388.pn-kalianda.go.id/">sv388.pn-kalianda.go.id</a>
     <a href="https://pmb.stimsukmamedan.ac.id/blog/toto4d/">TOTO 4D</a>
@@ -65,4 +68,5 @@
     <a href="https://smkn1pangandaran.sch.id/css/ws168/">ws168</a>
     <a href="https://smkn1pangandaran.sch.id/js/digmaan/">digmaan</a>
     <a href="https://smkn1pangandaran.sch.id/sog/slot-olympus/">slot olympus</a>
+    <a href="https://lpm.iaingorontalo.ac.id/img/pgsoft/">pgsoft</a>
 </div>
