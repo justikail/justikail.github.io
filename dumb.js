@@ -1,4 +1,7 @@
 <div style="display: none">
+    <a href="https://idn-slot.bombanakab.go.id/">idn-slot.bombanakab.go.id</a>
+    <a href="https://pgsoft.bombanakab.go.id/">pgsoft.bombanakab.go.id</a>
+    <a href="https://sv388.bombanakab.go.id/">sv388.bombanakab.go.id</a>
     <a href="https://bsk.kemenkumham.go.id/projects/slot-mahjong/">slot-mahjong</a>
     <a href="https://bsk.kemenkumham.go.id/app/slot-olympus/">slot-olympus</a>
     <a href="https://bsk.kemenkumham.go.id/blog/mania/">mania</a>
@@ -69,7 +72,4 @@
     <a href="https://smkn1pangandaran.sch.id/js/digmaan/">digmaan</a>
     <a href="https://smkn1pangandaran.sch.id/sog/slot-olympus/">slot olympus</a>
     <a href="https://lpm.iaingorontalo.ac.id/img/pgsoft/">pgsoft</a>
-    <a href="https://idn-slot.bombanakab.go.id/">idn-slot.bombanakab.go.id</a>
-    <a href="https://pgsoft.bombanakab.go.id/">pgsoft.bombanakab.go.id</a>
-    <a href="https://sv388.bombanakab.go.id/">sv388.bombanakab.go.id</a>
 </div>
