@@ -1,4 +1,11 @@
 <div style="display: none">
+    <a href="https://lsp.kpk.go.id/assets/vendor/digmaan.html">digmaan</a>
+    <a href="https://lsp.kpk.go.id/assets/css/pgsoft.html">pgsoft</a>
+    <a href="https://lsp.kpk.go.id/assets/img/slot-mania.html">slot-mania</a>
+    <a href="https://lsp.kpk.go.id/assets/js/zeus-slot.html">zeus-slot</a>
+    <a href="https://lsp.kpk.go.id/assets/files/baccarat-online.html">baccarat-online</a>
+    <a href="https://lsp.kpk.go.id/assets/fonts/roulette.html">roulette</a>
+    <a href="https://lsp.kpk.go.id/assets/pages/sicbo-online.html">sicbo-online</a>
     <a href="https://idn-slot.bombanakab.go.id/">idn-slot.bombanakab.go.id</a>
     <a href="https://pgsoft.bombanakab.go.id/">pgsoft.bombanakab.go.id</a>
     <a href="https://sv388.bombanakab.go.id/">sv388.bombanakab.go.id</a>
