@@ -1,266 +1,223 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cimbot - Cimol Bojott</title>
-    <meta name="description" content="Makan cimol bojott, bikin semangatmu jadi ngotot" />
-    <meta name="og:title" content="Cimbot - Cimol Bojott" />
-    <meta name="og:description" content="Makan cimol bojott, bikin semangatmu jadi ngotot" />
-    <link rel="icon" href="https://i.ibb.co/g4308rd/cimol.jpg" type="image/x-icon" />
-    <link href="https://fonts.googleapis.com/css2?family=Mooli&family=Noto+Sans+JP:wght@200&family=Pixelify+Sans&family=Young+Serif&display=swap" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
 
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f2f2f2;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-      }
+    <!-- --------- UNICONS ---------- -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css" />
 
-      header {
-        background-color: #804054;
-        color: white;
-        padding: 20px;
-      }
+    <!-- --------- CSS ---------- -->
+    <link rel="stylesheet" href="src/style.css" />
 
-      header h1 {
-        font-size: 36px;
-      }
+    <!-- --------- FAVICON ---------- -->
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
 
-      section {
-        background-color: white;
-        margin: 20px;
-        padding: 20px;
-        border-radius: 5px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      }
-
-      section h2 {
-        font-size: 24px;
-        margin-bottom: 10px;
-      }
-
-      section p {
-        font-size: 16px;
-      }
-
-      ul {
-        list-style-type: none;
-        display: flex;
-        justify-content: center;
-      }
-
-      li {
-        font-size: 18px;
-        padding: 10px;
-      }
-
-      footer {
-        background-color: #333;
-        color: white;
-        padding: 10px;
-      }
-
-      .awikwok {
-        font-family: "Young Serif", serif;
-      }
-
-      .awok {
-        font-family: "Roboto Slab", serif;
-      }
-
-      .awokwok {
-        font-family: "Roboto Slab", serif;
-        display: flex;
-        justify-content: space-evenly;
-        margin-bottom: 10px;
-      }
-
-      .awokwok > div > p {
-        text-decoration: underline;
-        font: bold;
-        margin-bottom: 12px;
-        margin-top: 23px;
-      }
-
-      .awokwok > div > p:hover {
-        text-decoration: none;
-      }
-
-      .awik {
-        display: flex;
-        justify-content: space-around;
-        text-align: center;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-      }
-
-      a > .icon {
-        text-decoration: none;
-        color: black;
-      }
-
-      .icon {
-        font-size: 2rem;
-      }
-
-      .underline {
-        text-decoration: none;
-        border-bottom: 1px solid #8c6951;
-        color: inherit;
-        padding: 10px;
-      }
-
-      .container {
-        position: fixed;
-        width: 4rem;
-        height: 4rem;
-        bottom: 2rem;
-        right: 2rem;
-        background: rgba(1, 1, 3, 1);
-        color: #fff;
-        border-radius: 50px;
-        z-index: 50;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-decoration: none;
-        box-shadow: -1rem 0 1rem #7e7e7e;
-        transition: 0.3s ease-in-out;
-      }
-
-      .null .container:hover {
-        background: rgba(1, 1, 3, 0.9);
-      }
-
-      .null .qris {
-        width: 200px;
-        height: 200px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        transition: 0.3s ease;
-      }
-
-      .null .qris:hover {
-        transform: scale(1.5);
-      }
-
-      @media (max-width: 768px) {
-        header h1 {
-          font-size: 24px;
-        }
-
-        section {
-          margin: 10px;
-          padding: 10px;
-        }
-
-        section h2 {
-          font-size: 20px;
-        }
-
-        section p {
-          font-size: 14px;
-        }
-
-        li {
-          font-size: 16px;
-        }
-
-        footer {
-          font-size: 12px;
-        }
-
-        .container {
-          width: 3.5rem;
-          height: 3.5rem;
-          bottom: 1.5rem;
-          right: 1.5rem;
-        }
-      }
-    </style>
+    <title>Justikail | Personal Portfolio</title>
+    <meta name="og:description" content="Justikail Personal Portfolio"/>
   </head>
   <body>
-    <header>
-      <h1 class="awikwok">CIMOL BOJOTT</h1>
-      <h4>``Makan cimol bojott, bikin semangatmu jadi ngotot``</h4>
-    </header>
+    <div class="container">
+      <!-- --------------- HEADER --------------- -->
+      <nav id="header">
+        <div class="nav-menu-btn">
+          <i class="uil uil-bars" onclick="myMenuFunction()"></i>
+          <a href="https://wa.me/6285871428510">+62 858-7142-8510</a>
+        </div>
+        <div class="nav-menu" id="myNavMenu">
+          <ul class="nav_menu_list">
+            <li class="nav_list">
+              <a href="#home" class="nav-link active-link">Home</a>
+              <div class="circle"></div>
+            </li>
+            <li class="nav_list">
+              <a href="#about" class="nav-link">About</a>
+              <div class="circle"></div>
+            </li>
+            <li class="nav_list">
+              <a href="#projects" class="nav-link">Projects</a>
+              <div class="circle"></div>
+            </li>
+          </ul>
+        </div>
+        <div class="nav-button">
+          <button class="btn-new" onclick="location.href='#projects'">New Project<i class="uil uil-star"></i></button>
+        </div>
+      </nav>
 
-    <section>
-      <img src="https://i.ibb.co/g4308rd/cimol.jpg" style="position: relative; width: 200px; border-radius: 50%" />
-      <h2 class="underline">Tentang Kami</h2>
-      <span class="awokwok">Kami adalah penjual Cimol Bojott yang beroperasi dikawasan Pemuda, Jakarta Timur. Selain rasa yang enak, kami juga menyajikan harga yang murah.</span>
-    </section>
+      <!-- -------------- MAIN ---------------- -->
+      <main class="wrapper">
+        <!-- -------------- FEATURED BOX ---------------- -->
+        <section class="featured-box" id="home">
+          <div class="featured-text">
+            <div class="featured-text-card">
+              <span>HAIKAL SIREGAR</span>
+            </div>
+            <div class="featured-name">
+              <p>I'M <span class="typedText"></span></p>
+            </div>
+            <div class="featured-text-info">
+              <p>A Frontend Developer with a passion for creating visually stunning and user friendly websites.</p>
+            </div>
+            <div class="featured-text-btn">
+              <a href="https://drive.google.com/file/d/1f5PKnqLNpKU0oFj0ny1Wgh2rE7tQd1DE/view?usp=sharing" target="_blank" class="btn-dumb"><i class="uil uil-file-alt"></i> Download CV</a>
+              <a href="mailto:haikalsiregar0x1337@gmail.com" class="btn-dumb blue-btn"><i class="uil uil-at"></i> Email Me</a>
+            </div>
+            <div class="social_icons">
+              <div class="icon">
+                <a href="https://instagram.com/sir.ikail"><i class="uil uil-instagram"></i></a>
+              </div>
+              <div class="icon">
+                <a href="https://www.linkedin.com/in/sirhaikal/"><i class="uil uil-linkedin-alt"></i></a>
+              </div>
+              <div class="icon">
+                <a href="https://dribbble.com/"><i class="uil uil-dribbble"></i></a>
+              </div>
+              <div class="icon">
+                <a href="https://github.com/justikail"><i class="uil uil-github-alt"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="featured-image">
+            <div class="image">
+              <img src="src/img/profile.png" alt="avatar" />
+            </div>
+          </div>
+        </section>
+        <!-- -------------- ABOUT BOX ---------------- -->
+        <section class="section" id="about">
+          <div class="top-header">
+            <h1>About Me</h1>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="about-info">
+                <h3>Introduction My Self</h3>
+                <p>I am well-versed in HTML, CSS, JavaScript, and Python. Additionally, I have experirence working with content management systems (CMS) like WordPress and Framework Like Laravel or CodeIgniter.</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="skills-box">
+                <div class="skills-header">
+                  <h3>Frontend</h3>
+                </div>
+                <div class="skills-list">
+                  <span>HTML</span>
+                  <span>CSS</span>
+                  <span>Bootstrap</span>
+                  <span>Tailwind</span>
+                  <span>JavaScript</span>
+                </div>
+              </div>
+              <div class="skills-box">
+                <div class="skills-header">
+                  <h3>Backend</h3>
+                </div>
+                <div class="skills-list">
+                  <span>PHP</span>
+                  <span>Python</span>
+                </div>
+              </div>
+              <div class="skills-box">
+                <div class="skills-header">
+                  <h3>Database</h3>
+                </div>
+                <div class="skills-list">
+                  <span>MySQL</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
-    <section>
-      <h2 class="underline">Pilihan Menu</h2>
-      <div class="awokwok" style="display: flex; flex-wrap: wrap">
-        <div>
-          <p style="font-size: large">Cimol Original</p>
-          <img src="https://i.ibb.co/72dHFZ4/Whats-App-Image-2023-10-18-at-20-02-13.jpg" alt="Cimol Original" style="width: 175px; border-radius: 20%" />
-          <p style="font-family: 'Young Serif', serif; text-decoration: none">Rp. 5000 / Porsi</p>
+        <!-- -------------- PROJECT BOX ---------------- -->
+        <section class="section" id="projects">
+          <div class="top-header">
+            <h1>Projects</h1>
+          </div>
+          <div class="project-container">
+            <div class="project-box">
+              <div class="project-image">
+                <img src="https://raw.githubusercontent.com/justikail/PhObfus/main/Preview%20-%201.png" alt="First Project" />
+              </div>
+              <div class="project-detail">
+                <h3>Title : <a href="https://justikail.000webhostapp.com/" target="_blank">PhObfus</a></h3>
+                <label>Description : Online PHP Code Obfuscator. Tools for encoding PHP scripts, with 4 options.</label>
+                <span>&copy 01-09-2023</span>
+              </div>
+            </div>
+            <div class="project-box">
+              <div class="project-image">
+                <img src="https://raw.githubusercontent.com/justikail/Chillyoo/main/img/preview.png" alt="Second Project" />
+              </div>
+              <div class="project-detail">
+                <h3>Title : <a href="https://justikail.github.io/Chillyoo/" target="_blank">ChillYoo</a></h3>
+                <label>Description : ChillYoo landing page. Landing page useful for promoting products from the 'ChillYoo' Stand with the main menu Pancong Lumer.</label>
+                <span>&copy 10-11-2023</span>
+              </div>
+            </div>
+            <div class="project-box">
+              <div class="project-image">
+                <img src="https://raw.githubusercontent.com/justikail/Pendataan-Pasien-Klinik-Sehat/main/demo/Demo%201.png" alt="Third Project" />
+              </div>
+              <div class="project-detail">
+                <h3>Title : <a href="https://github.com/justikail/Pendataan-Pasien-Klinik-Sehat" target="_blank">Pendataan Pasien Klinik</a></h3>
+                <label>Description : Pendataan Pasien Klinik Sehat. Useful tool to manage patients at the clinic based on CLI (Command Line Interface).</label>
+                <span>&copy 15-12-2023</span>
+              </div>
+            </div>
+            <div class="project-box">
+              <div class="project-image">
+                <img src="https://raw.githubusercontent.com/justikail/TiketKA_UIDesign/main/image/Desktop.png" alt="Fourth Project" />
+              </div>
+              <div class="project-detail">
+                <h3>Title : <a href="https://justikail.github.io/TiketKA_UIDesign/" target="_blank">FrontEnd TiketKA</a></h3>
+                <label>Description : FrontEnd Design TiketKA is a design for web TiketKA. TiketKA useful for purchasing train tickets.</label>
+                <span>&copy 07-01-2024</span>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- --------------- FOOTER --------------- -->
+      <footer>
+        <div class="footer">
+          <p>Name:</p>
+          <p>Haikal Siregar</p>
         </div>
-        <div>
-          <p style="font-size: large">Cimol Pedas</p>
-          <img src="https://i.ibb.co/VBXB7NY/168429692-719951932010951-7840695605858141048-n.jpg" alt="Cimol Pedas" style="width: 175px; border-radius: 20%" />
-          <p style="font-family: 'Young Serif', serif; text-decoration: none">Rp. 5000 / Porsi</p>
+        <div class="footer">
+          <p>Telp:</p>
+          <p><a href="tel:+6285871428510">085871428510</a></p>
         </div>
-        <div>
-          <p style="font-size: large">Cimol Jagung Bakar</p>
-          <img src="https://i.ibb.co/mGC9NX6/Whats-App-Image-2023-11-20-at-17-31-33.jpg" alt="Cimol Pedas" style="width: 175px; border-radius: 20%" />
-          <p style="font-family: 'Young Serif', serif; text-decoration: none">Rp. 5000 / Porsi</p>
+        <div class="footer">
+          <p>Date of birth:</p>
+          <p>13 July, 2004</p>
         </div>
+        <div class="footer">
+          <p>From:</p>
+          <p>Jakarta</p>
+        </div>
+      </footer>
+
+      <div class="waves">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path
+            fill="#00c9ff"
+            fill-opacity="1"
+            d="M0,64L48,80C96,96,192,128,288,138.7C384,149,480,139,576,144C672,149,768,171,864,165.3C960,160,1056,128,1152,117.3C1248,107,1344,117,1392,122.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+          ></path>
+        </svg>
       </div>
-    </section>
+    </div>
 
-    <a href="#payment" class="container">PAY</a>
-    <section class="null" id="payment">
-      <h2 class="underline">Payment</h2>
-      <img src="https://i.ibb.co/1TjMDW1/Whats-App-Image-2023-11-16-at-13-54-47.jpg" class="qris" />
-    </section>
+    <!-- ----- TYPING JS Link ----- -->
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 
-    <section>
-      <h2 class="underline">Kontak</h2>
-      <p class="awok">Untuk Melakukan Pre-Order (PO), Silakan Hubungi Contact Yang Tertera.</p>
-      <div class="awik">
-        <a href="https://wa.me/6285871428510"><i class="bi bi-whatsapp icon"></i></a>
-        <a href="https://instagram.com/dnyysntoo_"><i class="bi bi-instagram icon"></i></a>
-        <a href="mailto:haikalsiregar0x1337@gmail.com"><i class="bi bi-envelope-at icon"></i></a>
-        <a href="https://justikail.github.io"><i class="bi bi-globe icon"></i></a>
-      </div>
-    </section>
+    <!-- ----- SCROLL REVEAL JS Link----- -->
+    <script src="https://unpkg.com/scrollreveal"></script>
 
-    <footer>
-      <p>&copy; 2023 Cimol Bojott.</p>
-    </footer>
-    <script type="text/javascript">
-      const header = document.querySelector("header");
-      const sections = document.querySelectorAll("section");
-
-      header.addEventListener("click", function () {
-        header.style.backgroundColor = "#8c6951";
-      });
-
-      sections.forEach((section) => {
-        section.addEventListener("mouseover", function () {
-          section.style.backgroundColor = "#f5f5f5";
-        });
-
-        section.addEventListener("mouseout", function () {
-          section.style.backgroundColor = "white";
-        });
-      });
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <!-- ----- MAIN JS ----- -->
+    <script src="src/main.js"></script>
   </body>
 </html>
