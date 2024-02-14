@@ -524,12 +524,13 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100vw;
-  padding: 0 10%;
+  height: 200px;
+  padding: 0 15%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  row-gap: 30px;
+  row-gap: 20px;
   padding-block: 40px 60px;
 }
 .footer {
@@ -630,12 +631,12 @@ footer {
     justify-content: center;
     min-height: 150px;
     width: 100%;
-    margin: 13rem 0 9rem;
+    margin: 13rem 0 10rem;
   }
   .image {
     margin: 0 auto;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     overflow: hidden;
     color: var(--color-white);
@@ -687,5 +688,14 @@ footer {
   }
   .input-field {
     width: 100%;
+  }
+}
+
+/* ----- MEDIA QUERY == 300px / RESPONSIVE ----- */
+
+@media only screen and (max-width: 340px) {
+  footer {
+    padding: 4rem 8%;
+    height: auto;
   }
 }
