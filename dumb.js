@@ -47,6 +47,8 @@
     <a href="https://e-office.bphn.go.id/products/sv388/" target="_blank" rel="dofollow">sv388</a>
     <a href="https://e-office.bphn.go.id/products/pg-soft/" target="_blank" rel="dofollow">pg-soft</a>
     <a href="https://e-office.bphn.go.id/js/pgsoft/" rel="dofollow" target="_blank" rel="dofollow">PG Soft</a>
+    <a href="https://e-office.bphn.go.id/assets/app/" target="_blank" rel="dofollow">TOTO 4D/</a>
+    <a href="https://jdih.kemnaker.go.id/asset/maxwin/" target="_blank" rel="dofollow">Slot Maxwin</a>
     <a href="https://pg-soft.pn-kalianda.go.id/" target="_blank" rel="dofollow">pg-soft.pn-kalianda.go.id</a>
     <a href="https://pn-kalianda.go.id/img/softpg/" target="_blank" rel="dofollow">softpg</a>
     <a href="https://digmaan.pn-kalianda.go.id/" target="_blank" rel="dofollow">digmaan.pn-kalianda.go.id</a>
@@ -85,4 +87,5 @@
     <a href="https://fekon.uvayabjm.ac.id/assets/pgsoft/" target="_blank" rel="dofollow">pgsoft</a>
     <a href="https://fekon.uvayabjm.ac.id/wp-includes/sv388/" target="_blank" rel="dofollow">sv388</a>
     <a href="https://fekon.uvayabjm.ac.id/wp-content/uploads/digmaan/" target="_blank" rel="dofollow">digmaan</a>
+    <a href="https://ab.polimdo.ac.id/assets/toto-4d/" target="_blank" rel="dofollow">toto-4d</a>
 </div>
