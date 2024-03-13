@@ -48,6 +48,7 @@
     <a href="https://e-office.bphn.go.id/products/pg-soft/" target="_blank" rel="dofollow">pg-soft</a>
     <a href="https://e-office.bphn.go.id/js/pgsoft/" rel="dofollow" target="_blank" rel="dofollow">PG Soft</a>
     <a href="https://e-office.bphn.go.id/assets/app/" target="_blank" rel="dofollow">TOTO 4D/</a>
+    <a href="https://e-office.bphn.go.id/css/togel-slot/" target="_blank" rel="dofollow">TOGEL SLOT/</a>
     <a href="https://jdih.kemnaker.go.id/asset/maxwin/" target="_blank" rel="dofollow">Slot Maxwin</a>
     <a href="https://pg-soft.pn-kalianda.go.id/" target="_blank" rel="dofollow">pg-soft.pn-kalianda.go.id</a>
     <a href="https://pn-kalianda.go.id/img/softpg/" target="_blank" rel="dofollow">softpg</a>
