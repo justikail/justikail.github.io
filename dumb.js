@@ -21,4 +21,12 @@
     <a href="https://oiu.edu.sd/css/?products=VEGASHOKI" target="_blank" rel="dofollow">VEGASHOKI</a>
     <a href="https://oiu.edu.sd/css/?products=UNGGUL88" target="_blank" rel="dofollow">UNGGUL88</a>
     <a href="https://oiu.edu.sd/css/?products=MENTOL4D" target="_blank" rel="dofollow">MENTOL4D</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/img/sv388" target="_blank" rel="dofollow">sv388</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/assets/digmaan" target="_blank" rel="dofollow">digmaan</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/products/ws168/" target="_blank" rel="dofollow">ws168</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/css/slot-petir" target="_blank" rel="dofollow">slot petir</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/uploads/slot-receh" target="_blank" rel="dofollow">slot receh</a>
+    <a href="http://educacion.saludcoahuila.gob.mx/images/pgsoft" target="_blank" rel="dofollow">pgsoft</a>
+    <a href="http://sos.agri.kps.ku.ac.th/assets/fin4d" target="_blank" rel="dofollow">fin4d</a>
+    <a href="http://sos.agri.kps.ku.ac.th/images/ajaib88" target="_blank" rel="dofollow">ajaib88</a>
 </div>
