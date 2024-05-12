@@ -29,4 +29,9 @@
     <a href="http://educacion.saludcoahuila.gob.mx/images/pgsoft" target="_blank" rel="dofollow">pgsoft</a>
     <a href="http://sos.agri.kps.ku.ac.th/assets/fin4d" target="_blank" rel="dofollow">fin4d</a>
     <a href="http://sos.agri.kps.ku.ac.th/images/ajaib88" target="_blank" rel="dofollow">ajaib88</a>
+    <a href="https://bsk.kemenkumham.go.id/files/pos4d/" target="_blank" rel="dofollow">pos4d</a>
+    <a href="https://bsk.kemenkumham.go.id/captcha/fin4d/" target="_blank" rel="dofollow">fin4d</a>
+    <a href="https://bsk.kemenkumham.go.id/admin/inatogel/" target="_blank" rel="dofollow">inatogel</a>
+    <a href="https://bsk.kemenkumham.go.id/file/bimabet/" target="_blank" rel="dofollow">bimabet</a>
+    <a href="https://bsk.kemenkumham.go.id/asset/area188/" target="_blank" rel="dofollow">area188</a>
 </div>
