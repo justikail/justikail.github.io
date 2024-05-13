@@ -34,4 +34,6 @@
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=Ajaib88" target="_blank" rel="dofollow">Ajaib88</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=opaltogel" target="_blank" rel="dofollow">opaltogel</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=agentoto88" target="_blank" rel="dofollow">agentoto88</a>
+    <a href="https://cste.sut.ac.th/js/?products=ajaib88" target="_blank" rel="dofollow">ajaib88</a>
+    <a href="https://cste.sut.ac.th/js/?products=Megaslot88" target="_blank" rel="dofollow">Megaslot88</a>
 </div>
