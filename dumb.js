@@ -1,11 +1,5 @@
 <div style="display: none">
-    <a href="http://labteknik.ums.ac.id/fonts/" target="_blank" rel="dofollow">Link Toto</a>
     <a href="https://oiu.edu.sd/js/surga33/" target="_blank" rel="dofollow">SURGA33</a>
-    <a href="https://web.cgehs.tyc.edu.tw:10000/js/?products=slot5000" target="_blank" rel="dofollow">slot5000</a>
-    <a href="https://web.cgehs.tyc.edu.tw:10000/js/?products=MEGASLOT" target="_blank" rel="dofollow">MEGASLOT</a>
-    <a href="https://web.cgehs.tyc.edu.tw:10000/js/?products=PRESIDENSLOT" target="_blank" rel="dofollow">PRESIDENSLOT</a>
-    <a href="https://web.cgehs.tyc.edu.tw:10000/js/?products=PGSLOT" target="_blank" rel="dofollow">PGSLOT</a>
-    <a href="https://web.cgehs.tyc.edu.tw:10000/js/?products=QQSLOT" target="_blank" rel="dofollow">QQSLOT</a>
     <a href="http://www.milkwood.nt.edu.au/assets/slot-raffi-ahmad-77/" target="_blank" rel="dofollow">slot raffi ahmad 77</a>
     <a href="https://www.milkwood.nt.edu.au/js/?ribaksude=Olympus138" target="_blank" rel="dofollow">Olympus138</a>
     <a href="https://www.milkwood.nt.edu.au/js/?ribaksude=Starslot777" target="_blank" rel="dofollow">Starslot777</a>
@@ -27,7 +21,6 @@
     <a href="http://educacion.saludcoahuila.gob.mx/css/slot-petir/" target="_blank" rel="dofollow">slot petir</a>
     <a href="http://educacion.saludcoahuila.gob.mx/uploads/slot-receh/" target="_blank" rel="dofollow">slot receh</a>
     <a href="http://educacion.saludcoahuila.gob.mx/images/pgsoft/" target="_blank" rel="dofollow">pgsoft</a>
-    <a href="http://sos.agri.kps.ku.ac.th/assets/fin4d" target="_blank" rel="dofollow">fin4d</a>
     <a href="http://sos.agri.kps.ku.ac.th/images/ajaib88" target="_blank" rel="dofollow">ajaib88</a>
     <a href="https://bsk.kemenkumham.go.id/files/pos4d/" target="_blank" rel="dofollow">pos4d</a>
     <a href="https://bsk.kemenkumham.go.id/captcha/fin4d/" target="_blank" rel="dofollow">fin4d</a>
