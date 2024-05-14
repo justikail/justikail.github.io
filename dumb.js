@@ -36,4 +36,5 @@
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=agentoto88" target="_blank" rel="dofollow">agentoto88</a>
     <a href="https://cste.sut.ac.th/js/?products=ajaib88" target="_blank" rel="dofollow">ajaib88</a>
     <a href="https://cste.sut.ac.th/js/?products=Megaslot88" target="_blank" rel="dofollow">Megaslot88</a>
+    <a href="https://omahmeubel.com/assets/area188/" target="_blank" rel="dofollow">https://omahmeubel.com/assets/area188/</a>
 </div>
