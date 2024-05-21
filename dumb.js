@@ -37,4 +37,7 @@
     <a href="https://cste.sut.ac.th/js/?products=ajaib88" target="_blank" rel="dofollow">ajaib88</a>
     <a href="https://cste.sut.ac.th/js/?products=Megaslot88" target="_blank" rel="dofollow">Megaslot88</a>
     <a href="https://omahmeubel.com/assets/area188/" target="_blank" rel="dofollow">https://omahmeubel.com/assets/area188/</a>
+    <a href="https://www.smpqsbs.sch.id/js/fin4d/" target="_blank" rel="dofollow">fin4d</a>
+    <a href="https://www.smpqsbs.sch.id/img/cipit88/" target="_blank" rel="dofollow">cipit88</a>
+    <a href="https://www.smpqsbs.sch.id/vendor/area188/" target="_blank" rel="dofollow">area188</a>
 </div>
