@@ -28,4 +28,5 @@
     <a href="https://smanda-bdl.sch.id/assets/?products=API5000" target="_blank" rel="dofollow">API5000</a>
     <a href="https://fisip.unsa.ac.id/assets/?products=SURGA11" target="_blank" rel="dofollow">SURGA11</a>
     <a href="https://lppm.nalanda.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="http://gizi.fkm.unsri.ac.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
 </div>
