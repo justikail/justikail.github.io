@@ -19,14 +19,10 @@
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=agentoto88" target="_blank" rel="dofollow">agentoto88</a>
     <a href="https://cste.sut.ac.th/js/?products=ajaib88" target="_blank" rel="dofollow">ajaib88</a>
     <a href="https://cste.sut.ac.th/js/?products=Megaslot88" target="_blank" rel="dofollow">Megaslot88</a>
-    <a href="https://www.smpqsbs.sch.id/js/fin4d/" target="_blank" rel="dofollow">fin4d</a>
-    <a href="https://www.smpqsbs.sch.id/img/cipit88/" target="_blank" rel="dofollow">cipit88</a>
-    <a href="https://www.smpqsbs.sch.id/vendor/area188/" target="_blank" rel="dofollow">area188</a>
     <a href="https://www.smkpgri1surabaya.sch.id/js/?products=MAWARTOTO" target="_blank" rel="dofollow">MAWARTOTO</a>
-    <a href="https://www.smpqsbs.sch.id/images/?products=AJAIB88" target="_blank" rel="dofollow">AJAIB88</a>
     <a href="https://aceiot.ur.ac.rw/images/?products=MAMIBET" target="_blank" rel="dofollow">MAMIBET</a>
     <a href="https://smanda-bdl.sch.id/assets/?products=API5000" target="_blank" rel="dofollow">API5000</a>
     <a href="https://fisip.unsa.ac.id/assets/?products=SURGA11" target="_blank" rel="dofollow">SURGA11</a>
-    <a href="https://lppm.nalanda.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="http://gizi.fkm.unsri.ac.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://toyotadealer.co.id/wp-content/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
 </div>
