@@ -25,4 +25,12 @@
     <a href="https://fisip.unsa.ac.id/assets/?products=SURGA11" target="_blank" rel="dofollow">SURGA11</a>
     <a href="http://gizi.fkm.unsri.ac.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://toyotadealer.co.id/wp-content/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
+    <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D">SENIOR4D</a>
+    <a href="https://mutiaragemilang.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://smanegeri1seputihagung.sch.id/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://www.sman1tegaldlimo.sch.id/css/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://smkn1ramanutara.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://sman75jakarta.sch.id/well/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://banmaiphayao.go.th/img/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
+    <a href="https://ykp.efinac.co.id/ribaksude/?to=YAKIN777" target="_blank" rel="dofollow">YAKIN777</a>
 </div>
