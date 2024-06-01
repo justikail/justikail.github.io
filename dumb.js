@@ -15,5 +15,6 @@
     <a href="https://smkn1ramanutara.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://sman75jakarta.sch.id/well/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://banmaiphayao.go.th/img/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
+    <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://ykp.efinac.co.id/ribaksude/?to=YAKIN777" target="_blank" rel="dofollow">YAKIN777</a>
 </div>
