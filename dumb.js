@@ -14,15 +14,9 @@
     <a href="https://smkn1ramanutara.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://sman75jakarta.sch.id/well/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://banmaiphayao.go.th/img/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
-    <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://ykp.efinac.co.id/ribaksude/?to=YAKIN777" target="_blank" rel="dofollow">YAKIN777</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelup/" target="_blank" rel="dofollow">togelup</a>
     <a href="https://lsp.smkpabhara.sch.id/file/linetogel/" target="_blank" rel="dofollow">linetogel</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelon/" target="_blank" rel="dofollow">togelon</a>
-    <a href="https://proketra.man1mojokerto.sch.id/js/surga11/" target="_blank" rel="dofollow">surga11</a>
-    <a href="https://proketra.man1mojokerto.sch.id/assets/surgaplay/" target="_blank" rel="dofollow">surgaplay</a>
-    <a href="https://proketra.man1mojokerto.sch.id/img/surga55/" target="_blank" rel="dofollow">surga55</a>
-    <a href="https://proketra.man1mojokerto.sch.id/images/surga33/" target="_blank" rel="dofollow">surga33</a>
-    <a href="https://proketra.man1mojokerto.sch.id/vendor/surga77/" target="_blank" rel="dofollow">surga77</a>
     <a href="https://perpustakaan.itsmandiri.ac.id/css/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
 </div>
