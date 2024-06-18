@@ -25,4 +25,10 @@
     <a href="https://proketra.man1mojokerto.sch.id/images/surga33/" target="_blank" rel="dofollow">surga33</a>
     <a href="https://proketra.man1mojokerto.sch.id/vendor/surga77/" target="_blank" rel="dofollow">surga77</a>
     <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
+    <a href="https://perpus.smkn2jombang.sch.id/" target="_blank" rel="dofollow">https://perpus.smkn2jombang.sch.id/</a>
+    <a href="https://kostcoliving.id/" target="_blank" rel="dofollow">https://kostcoliving.id/</a>
+    <a href="https://smpn8purwokerto.sch.id/" target="_blank" rel="dofollow">https://smpn8purwokerto.sch.id/</a>
+    <a href="https://surabaya.memo.co.id/" target="_blank" rel="dofollow">https://surabaya.memo.co.id/</a>
+    <a href="https://smkalmaksum.sch.id/" target="_blank" rel="dofollow">https://smkalmaksum.sch.id/</a>
+    <a href="https://solahartcenter.id/" target="_blank" rel="dofollow">https://solahartcenter.id/</a>
 </div>
