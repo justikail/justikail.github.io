@@ -31,4 +31,11 @@
     <a href="https://surabaya.memo.co.id/" target="_blank" rel="dofollow">https://surabaya.memo.co.id/</a>
     <a href="https://smkalmaksum.sch.id/" target="_blank" rel="dofollow">https://smkalmaksum.sch.id/</a>
     <a href="https://solahartcenter.id/" target="_blank" rel="dofollow">https://solahartcenter.id/</a>
+    <a href="https://unbp.ac.id/images/ac/sv388/" target="_blank" rel="dofollow">sv388</a>
+    <a href="https://unbp.ac.id/products/co/digmaan/" target="_blank" rel="dofollow">digmaan</a>
+    <a href="https://unbp.ac.id/vendor/sch/slotpetir/" target="_blank" rel="dofollow">slot petir</a>
+    <a href="https://skpiso.id/css/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://penjaminanmutu.stikeshangtuah-sby.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://englishversity.id/apps/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://kopertais15.or.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
 </div>
