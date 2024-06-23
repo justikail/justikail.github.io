@@ -3,18 +3,10 @@
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=Ajaib88" target="_blank" rel="dofollow">Ajaib88</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=opaltogel" target="_blank" rel="dofollow">opaltogel</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=agentoto88" target="_blank" rel="dofollow">agentoto88</a>
-    <a href="https://www.smkpgri1surabaya.sch.id/js/?products=MAWARTOTO" target="_blank" rel="dofollow">MAWARTOTO</a>
     <a href="https://aceiot.ur.ac.rw/images/?products=MAMIBET" target="_blank" rel="dofollow">MAMIBET</a>
     <a href="https://smanda-bdl.sch.id/assets/?products=API5000" target="_blank" rel="dofollow">API5000</a>
-    <a href="http://gizi.fkm.unsri.ac.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://toyotadealer.co.id/wp-content/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
     <a href="https://mutiaragemilang.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://smanegeri1seputihagung.sch.id/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://www.sman1tegaldlimo.sch.id/css/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://smkn1ramanutara.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://sman75jakarta.sch.id/well/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://banmaiphayao.go.th/img/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
-    <a href="https://ykp.efinac.co.id/ribaksude/?to=YAKIN777" target="_blank" rel="dofollow">YAKIN777</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelup/" target="_blank" rel="dofollow">togelup</a>
     <a href="https://lsp.smkpabhara.sch.id/file/linetogel/" target="_blank" rel="dofollow">linetogel</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelon/" target="_blank" rel="dofollow">togelon</a>
@@ -25,7 +17,6 @@
     <a href="https://proketra.man1mojokerto.sch.id/images/surga33/" target="_blank" rel="dofollow">surga33</a>
     <a href="https://proketra.man1mojokerto.sch.id/vendor/surga77/" target="_blank" rel="dofollow">surga77</a>
     <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://perpus.smkn2jombang.sch.id/" target="_blank" rel="dofollow">https://perpus.smkn2jombang.sch.id/</a>
     <a href="https://kostcoliving.id/" target="_blank" rel="dofollow">https://kostcoliving.id/</a>
     <a href="https://smpn8purwokerto.sch.id/" target="_blank" rel="dofollow">https://smpn8purwokerto.sch.id/</a>
     <a href="https://surabaya.memo.co.id/" target="_blank" rel="dofollow">https://surabaya.memo.co.id/</a>
@@ -38,4 +29,27 @@
     <a href="https://penjaminanmutu.stikeshangtuah-sby.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://englishversity.id/apps/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://kopertais15.or.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://iik.ac.id/blog/wp-content/fonts/hometogel/" target="_blank" rel="dofollow">hometogel</a>
+    <a href="https://iik.ac.id/blog/wp-content/fonts/inatogel/" target="_blank" rel="dofollow">inatogel</a>
+    <a href="https://iik.ac.id/blog/wp-content/fonts/cipit88/" target="_blank" rel="dofollow">cipit88</a>
+    <a href="https://iik.ac.id/blog/wp-content/fonts/opaltogel/" target="_blank" rel="dofollow">opaltogel</a>
+    <a href="https://iik.ac.id/blog/wp-content/fonts/pos4d/" target="_blank" rel="dofollow">pos4d</a>
+    <a href="https://proketra.man1mojokerto.sch.id/vendor/inatogel/" target="_blank" rel="dofollow">inatogel</a>
+    <a href="https://proketra.man1mojokerto.sch.id/vendor/area188/" target="_blank" rel="dofollow">area188</a>
+    <a href="https://proketra.man1mojokerto.sch.id/vendor/ziatogel/" target="_blank" rel="dofollow">ziatogel</a>
+    <a href="https://proketra.man1mojokerto.sch.id/vendor/kepritogel/" target="_blank" rel="dofollow">kepritogel</a>
+    <a href="https://proketra.man1mojokerto.sch.id/vendor/fin4d/" target="_blank" rel="dofollow">fin4d</a>
+    <a href="https://citrasanxing.co.id/css/herobet88/" target="_blank" rel="dofollow">Herobet8</a>
+    <a href="https://citrasanxing.co.id/css/kedai168/" target="_blank" rel="dofollow">Kedai168</a>
+    <a href="https://citrasanxing.co.id/css/empati138/" target="_blank" rel="dofollow">Empati138</a>
+    <a href="https://citrasanxing.co.id/images/pam4d/" target="_blank" rel="dofollow">Pam4d</a>
+    <a href="https://citrasanxing.co.id/images/abatogel/" target="_blank" rel="dofollow">Abatogel</a>
+    <a href="https://citrasanxing.co.id/images/bolapelangi/" target="_blank" rel="dofollow">Bolapelangi</a>
+    <a href="https://citrasanxing.co.id/js/dewagacor77/" target="_blank" rel="dofollow">Dewagacor77</a>
+    <a href="https://citrasanxing.co.id/assets/dewi88/" target="_blank" rel="dofollow">Dewi88</a>
+    <a href="https://citrasanxing.co.id/assets/dewatogel/" target="_blank" rel="dofollow">Dewatogel</a>
+    <a href="https://citrasanxing.co.id/assets/sortoto/" target="_blank" rel="dofollow">Sortoto</a>
+    <a href="https://citrasanxing.co.id/assets/slotrezeki/" target="_blank" rel="dofollow">Slotrezeki</a>
+    <a href="https://citrasanxing.co.id/assets/surga33/" target="_blank" rel="dofollow">Surga33</a>
+    <a href="https://citrasanxing.co.id/assets/" target="_blank" rel="dofollow">https://citrasanxing.co.id/assets/</a>
 </div>
