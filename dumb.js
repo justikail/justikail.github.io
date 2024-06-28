@@ -3,24 +3,17 @@
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=Ajaib88" target="_blank" rel="dofollow">Ajaib88</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=opaltogel" target="_blank" rel="dofollow">opaltogel</a>
     <a href="http://educacion.saludcoahuila.gob.mx/app/?products=agentoto88" target="_blank" rel="dofollow">agentoto88</a>
-    <a href="https://aceiot.ur.ac.rw/images/?products=MAMIBET" target="_blank" rel="dofollow">MAMIBET</a>
-    <a href="https://smanda-bdl.sch.id/assets/?products=API5000" target="_blank" rel="dofollow">API5000</a>
-    <a href="https://mutiaragemilang.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://smkn1ramanutara.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelup/" target="_blank" rel="dofollow">togelup</a>
     <a href="https://lsp.smkpabhara.sch.id/file/linetogel/" target="_blank" rel="dofollow">linetogel</a>
     <a href="https://lsp.smkpabhara.sch.id/file/togelon/" target="_blank" rel="dofollow">togelon</a>
-    <a href="https://perpustakaan.itsmandiri.ac.id/css/?products=SURGA88" target="_blank" rel="dofollow">SURGA88</a>
     <a href="https://proketra.man1mojokerto.sch.id/js/surga11/" target="_blank" rel="dofollow">surga11</a>
     <a href="https://proketra.man1mojokerto.sch.id/assets/surgaplay/" target="_blank" rel="dofollow">surgaplay</a>
     <a href="https://proketra.man1mojokerto.sch.id/img/surga55/" target="_blank" rel="dofollow">surga55</a>
     <a href="https://proketra.man1mojokerto.sch.id/images/surga33/" target="_blank" rel="dofollow">surga33</a>
     <a href="https://proketra.man1mojokerto.sch.id/vendor/surga77/" target="_blank" rel="dofollow">surga77</a>
     <a href="https://man1mojokerto.sch.id/assets/?products=SENIOR4D" target="_blank" rel="dofollow">SENIOR4D</a>
-    <a href="https://kostcoliving.id/" target="_blank" rel="dofollow">https://kostcoliving.id/</a>
     <a href="https://smpn8purwokerto.sch.id/" target="_blank" rel="dofollow">https://smpn8purwokerto.sch.id/</a>
-    <a href="https://surabaya.memo.co.id/" target="_blank" rel="dofollow">https://surabaya.memo.co.id/</a>
-    <a href="https://smkalmaksum.sch.id/" target="_blank" rel="dofollow">https://smkalmaksum.sch.id/</a>
     <a href="https://solahartcenter.id/" target="_blank" rel="dofollow">https://solahartcenter.id/</a>
     <a href="https://unbp.ac.id/images/ac/sv388/" target="_blank" rel="dofollow">sv388</a>
     <a href="https://unbp.ac.id/products/co/digmaan/" target="_blank" rel="dofollow">digmaan</a>
@@ -39,17 +32,7 @@
     <a href="https://proketra.man1mojokerto.sch.id/vendor/ziatogel/" target="_blank" rel="dofollow">ziatogel</a>
     <a href="https://proketra.man1mojokerto.sch.id/vendor/kepritogel/" target="_blank" rel="dofollow">kepritogel</a>
     <a href="https://proketra.man1mojokerto.sch.id/vendor/fin4d/" target="_blank" rel="dofollow">fin4d</a>
-    <a href="https://citrasanxing.co.id/css/herobet88/" target="_blank" rel="dofollow">Herobet8</a>
-    <a href="https://citrasanxing.co.id/css/kedai168/" target="_blank" rel="dofollow">Kedai168</a>
-    <a href="https://citrasanxing.co.id/css/empati138/" target="_blank" rel="dofollow">Empati138</a>
-    <a href="https://citrasanxing.co.id/images/pam4d/" target="_blank" rel="dofollow">Pam4d</a>
-    <a href="https://citrasanxing.co.id/images/abatogel/" target="_blank" rel="dofollow">Abatogel</a>
-    <a href="https://citrasanxing.co.id/images/bolapelangi/" target="_blank" rel="dofollow">Bolapelangi</a>
-    <a href="https://citrasanxing.co.id/js/dewagacor77/" target="_blank" rel="dofollow">Dewagacor77</a>
-    <a href="https://citrasanxing.co.id/assets/dewi88/" target="_blank" rel="dofollow">Dewi88</a>
-    <a href="https://citrasanxing.co.id/assets/dewatogel/" target="_blank" rel="dofollow">Dewatogel</a>
-    <a href="https://citrasanxing.co.id/assets/sortoto/" target="_blank" rel="dofollow">Sortoto</a>
-    <a href="https://citrasanxing.co.id/assets/slotrezeki/" target="_blank" rel="dofollow">Slotrezeki</a>
-    <a href="https://citrasanxing.co.id/assets/surga33/" target="_blank" rel="dofollow">Surga33</a>
-    <a href="https://citrasanxing.co.id/assets/" target="_blank" rel="dofollow">https://citrasanxing.co.id/assets/</a>
+    <a href="https://ppdb.smanegeri1seputihagung.sch.id/images/" target="_blank" rel="dofollow">https://ppdb.smanegeri1seputihagung.sch.id/images/</a>
+    <a href="https://spm.unbita.ac.id/js/" target="_blank" rel="dofollow">https://spm.unbita.ac.id/js/</a>
+    <a href="https://talentsmart.co.id/js/" target="_blank" rel="dofollow">https://talentsmart.co.id/js/</a>
 </div>
