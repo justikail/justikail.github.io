@@ -1,0 +1,1 @@
+import{r as t,s}from"./index-Dg-wDLzq.js";const f=({dataProjects:o})=>(t.useEffect(()=>{(async()=>{try{const{data:r,error:e}=await s.from("portfolio").select("*").order("id",{ascending:!1});e?console.error("Error fetching projects:",e):o(r)}catch(r){console.error("Error fetching projects:",r)}})()},[o]),null);export{f as T};
