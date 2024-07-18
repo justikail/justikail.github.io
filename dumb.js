@@ -53,4 +53,11 @@
     <a href="https://mtsalhilaalnamlea.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://misdaarularqomparbulu.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://utamaspareparts.com/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://rdm.yabika.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://osis.smkpariwisatacitayam.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://tjkt.smkpariwisatacitayam.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://www.smkpariwisatacitayam.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://elearning.sman75jakarta.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://spp.smkpgri1surabaya.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://elearning.smkpabhara.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
 </div>
