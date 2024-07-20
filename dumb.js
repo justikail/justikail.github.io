@@ -40,4 +40,9 @@
     <a href="https://elearning.sman75jakarta.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://spp.smkpgri1surabaya.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://elearning.smkpabhara.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://maraudlotululum.sch.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://ma-almusthofa.sch.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://www.register12.yapimjaya.sch.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://rumaharuna.sch.id/js/?products=SENIOR4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://smpcitayamplus.sch.id/images/sch/" target="_blank" rel="dofollow">https://smpcitayamplus.sch.id/images/sch/</a>
 </div>
