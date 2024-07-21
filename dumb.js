@@ -49,6 +49,9 @@
     <a href="https://adamjeelife.com/images/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://portal.adamjeelife.com/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="http://libraryfitkes.unjani.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://annahl.staile.ac.id/js/-/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://pmb.iaile.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://care.or.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://iaile.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://smpn1ngemplaksleman.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
 </div>
