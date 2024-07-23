@@ -1,31 +1,14 @@
 <div style="display: none">
     <a href="https://heylink.me/sadabet138/" target="_blank" rel="dofollow">Sadabet138</a>
-    <a href="https://skpiso.id/css/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://ppdb.smanegeri1seputihagung.sch.id/images/" target="_blank" rel="dofollow">https://ppdb.smanegeri1seputihagung.sch.id/images/</a>
-    <a href="https://spm.unbita.ac.id/js/" target="_blank" rel="dofollow">https://spm.unbita.ac.id/js/</a>
     <a href="https://talentsmart.co.id/js/" target="_blank" rel="dofollow">https://talentsmart.co.id/js/</a>
     <a href="https://smanegeri1seputihmataram.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://kelulusan.smanegeri1seputihmataram.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://gtp.or.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://sava2.talentsmart.co.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://tiraipelajarmandalika.or.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://kostcoliving.id/storage/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://sdh.or.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://gtp.or.id/folder/org/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
-    <a href="https://skpiso.id/assets/img/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
-    <a href="https://mutiaragemilang.id/images/go/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
-    <a href="https://tiraipelajarmandalika.or.id/acc/js/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
     <a href="https://ppdb.smkpgri1surabaya.sch.id/uploads/images/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
     <a href="https://ppdb.smanegeri1seputihagung.sch.id/data/dokumen/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
     <a href="https://ppdb.smkpabhara.sch.id/assets/css/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
-    <a href="https://sdh.or.id/vendor/sadabet138/" target="_blank" rel="dofollow">sadabet138</a>
     <a href="https://ppdb.smkpgri1surabaya.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://ppdb.smkpabhara.sch.id/images/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://nocturnal.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://jetcyber.co.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://sdnkertaharja3.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://skpiso.id/images/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
-    <a href="https://jdih-dprd.belitung.go.id/js/-/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://kuanamlea.com/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://sman6buru.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://minburu.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
@@ -54,4 +37,10 @@
     <a href="https://care.or.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://iaile.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://smpn1ngemplaksleman.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://cahayapustaka.smpn1ngemplaksleman.sch.id/img/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://cbt.smkn5tpi.sch.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://akselerasi.uinkhas.ac.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://ponxxi.sumutprov.go.id/wp-content/uploads/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://smkn5tpi.sch.id/img/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://uwinfly.co.id/app/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
 </div>
