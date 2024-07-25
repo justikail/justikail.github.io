@@ -43,4 +43,9 @@
     <a href="https://ponxxi.sumutprov.go.id/wp-content/uploads/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://smkn5tpi.sch.id/img/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
     <a href="https://uwinfly.co.id/app/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://smpnwelarek.sch.id/img/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://beritabekasi.co.id/js/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://spp.smkpgri1surabaya.sch.id/assets/?products=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://kuabinamu.or.id/js/?kocok=POS4D" target="_blank" rel="dofollow">POS4D</a>
+    <a href="https://skl.smkmuhammadiyah5kisaran.sch.id/sada/?kocok=POS4D" target="_blank" rel="dofollow">POS4D</a>
 </div>
