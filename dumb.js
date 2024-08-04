@@ -30,4 +30,5 @@
     <a href="https://sigma.dpd.go.id/data/" target="_blank" rel="dofollow">posjitu</a>
     <a href="https://ppdb.mambalam.sch.id/" target="_blank" rel="dofollow">sadabet138</a>
     <a href="https://stiti-kp.ac.id/wp-content/uploads/funbet77/" target="_blank" rel="dofollow">funbet77</a>
+    <a href="https://ponxxi.sumutprov.go.id/data/" target="_blank" rel="dofollow">PGSOFT</a>
 </div>
