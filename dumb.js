@@ -31,5 +31,5 @@
     <a href="https://jtools.my.id/word/parafrase" target="_blank" rel="dofollow">Tools for automated parafrase or paraphrase with AI (Artificial Intelligence).</a>
     <a href="https://jtools.my.id/random/love-rate" target="_blank" rel="dofollow">Tools for measure the compatibility of two names.</a>
     <a href="https://jtools.my.id/checker/mahasiswa" target="_blank" rel="dofollow">Tools to search for students and lecturers by name, ID or NIDN.</a>
-    <a href="https://pa-gianyar.go.id/" target="_blank" rel="dofollow">https://pa-gianyar.go.id/</a>
+    <a href="http://pta-mataram.go.id/" target="_blank" rel="dofollow">Slot Maxwin Slot Thailand</a>
 </div>
