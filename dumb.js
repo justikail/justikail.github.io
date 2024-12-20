@@ -36,5 +36,6 @@
     <li><a href="https://pta-mataram.go.id/" target="_blank" rel="dofollow">Slot Thailand</a></li>
     <li><a href="https://pa-gianyar.go.id/" target="_blank" rel="dofollow">https://pa-gianyar.go.id/</a></li>
     <li><a href="https://pa-gianyar.go.id/" target="_blank" rel="dofollow">Slot Thailand</a></li>
+    <li><a href="https://congresomultidisciplinarioepg.uwiener.edu.pe/" target="_blank" rel="dofollow">https://congresomultidisciplinarioepg.uwiener.edu.pe/</a></li>
     </ul>
 </div>
