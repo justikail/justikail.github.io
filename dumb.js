@@ -39,5 +39,7 @@
     <li><a href="https://congresomultidisciplinarioepg.uwiener.edu.pe/" target="_blank" rel="dofollow">https://congresomultidisciplinarioepg.uwiener.edu.pe/</a></li>
     <li><a href="https://lembatakab.go.id/" target="_blank" rel="dofollow">SLOT MAXWIN</a></li>
     <li><a href="https://lembatakab.go.id/" target="_blank" rel="dofollow">https://lembatakab.go.id/</a></li>
+    <li><a href="https://sipp.pa-gianyar.go.id/" target="_blank" rel="dofollow">SLOT GACOR</a></li>
+    <li><a href="https://sipp.pa-gianyar.go.id/" target="_blank" rel="dofollow">https://sipp.pa-gianyar.go.id/</a></li>
     </ul>
 </div>
