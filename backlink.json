@@ -1,0 +1,26 @@
+{
+  "exact": [
+    {
+      "link": "https://jtools.my.id/",
+      "anchor": "Free Tools Online"
+    }
+  ],
+  "branded": [
+    {
+      "link": "https://jtools.my.id/",
+      "anchor": "JTools"
+    }
+  ],
+  "descriptive": [
+    {
+      "link": "https://jtools.my.id/",
+      "anchor": "Website dengan banyak tools online gratis"
+    }
+  ],
+  "naked": [
+    {
+      "link": "https://jtools.my.id/",
+      "anchor": "https://jtools.my.id/"
+    }
+  ]
+}
